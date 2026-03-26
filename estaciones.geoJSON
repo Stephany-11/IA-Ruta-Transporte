@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 1,
+        "nombre_estacion": "Portal Norte",
+        "coordenada_x_estacion": -74.046,
+        "coordenada_y_estacion": 4.754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.046, 4.754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 2,
+        "nombre_estacion": "Calle 100",
+        "coordenada_x_estacion": -74.059,
+        "coordenada_y_estacion": 4.676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059, 4.676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 3,
+        "nombre_estacion": "Calle 72",
+        "coordenada_x_estacion": -74.065,
+        "coordenada_y_estacion": 4.654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.065, 4.654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 4,
+        "nombre_estacion": "Calle 26",
+        "coordenada_x_estacion": -74.072,
+        "coordenada_y_estacion": 4.609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072, 4.609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5,
+        "nombre_estacion": "Portal Sur",
+        "coordenada_x_estacion": -74.136,
+        "coordenada_y_estacion": 4.570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.136, 4.570]
+      }
+    }
+  ]
+}
