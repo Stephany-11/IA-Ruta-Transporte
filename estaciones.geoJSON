@@ -1,25 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-     {"type":"Feature","properties":{"objectid":13,"nombre_estacion":"Portal Sur (Bosa)"},"geometry":{"type":"Point","coordinates":[-74.136,4.570]}},
-
-    {"type":"Feature","properties":{"objectid":14,"nombre_estacion":"Perdomo"},"geometry":{"type":"Point","coordinates":[-74.148,4.560]}},
-
-    {"type":"Feature","properties":{"objectid":15,"nombre_estacion":"Madres Comunitarias"},"geometry":{"type":"Point","coordinates":[-74.140,4.575]}},
-
-    {"type":"Feature","properties":{"objectid":16,"nombre_estacion":"Venecia"},"geometry":{"type":"Point","coordinates":[-74.130,4.590]}},
-
-    {"type":"Feature","properties":{"objectid":17,"nombre_estacion":"Sevillana"},"geometry":{"type":"Point","coordinates":[-74.120,4.600]}},
-
-    {"type":"Feature","properties":{"objectid":18,"nombre_estacion":"Santa Isabel"},"geometry":{"type":"Point","coordinates":[-74.105,4.605]}},
-
-    {"type":"Feature","properties":{"objectid":19,"nombre_estacion":"Comuneros"},"geometry":{"type":"Point","coordinates":[-74.095,4.607]}},
-
-    {"type":"Feature","properties":{"objectid":20,"nombre_estacion":"Ricaurte"},"geometry":{"type":"Point","coordinates":[-74.090,4.610]}},
-
-    {"type":"Feature","properties":{"objectid":21,"nombre_estacion":"CAD"},"geometry":{"type":"Point","coordinates":[-74.100,4.630]}},
-
-    {"type":"Feature","properties":{"objectid":22,"nombre_estacion":"Av Américas - Carrera 50"},"geometry":{"type":"Point","coordinates":[-74.110,4.640]}},
     {
       "type": "Feature",
       "properties": {
@@ -84,6 +65,88 @@
         "type": "Point",
         "coordinates": [-74.136, 4.570]
       }
+    },
+
+    {
+      "type":"Feature",
+      "properties":{
+        "objectid":13,
+        "nombre_estacion":"Portal Sur (Bosa)"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.136,4.570]}
+    },
+      
+    {
+      "type":"Feature",
+        "properties":{"objectid":14,
+        "nombre_estacion":"Perdomo"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.148,4.560]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":15,
+        "nombre_estacion":"Madres Comunitarias"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.140,4.575]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":16,
+        "nombre_estacion":"Venecia"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.130,4.590]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":17,
+        "nombre_estacion":"Sevillana"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.120,4.600]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":18,
+        "nombre_estacion":"Santa Isabel"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.105,4.605]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":19,
+        "nombre_estacion":"Comuneros"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.095,4.607]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":20,
+        "nombre_estacion":"Ricaurte"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.090,4.610]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":21,
+        "nombre_estacion":"CAD"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.100,4.630]}
+    },
+
+    {
+      "type":"Feature",
+        "properties":{"objectid":22,
+        "nombre_estacion":"Av Américas - Carrera 50"},
+        "geometry":{"type":"Point",
+        "coordinates":[-74.110,4.640]}
     }
+    
   ]
 }
